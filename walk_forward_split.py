@@ -1,4 +1,3 @@
-# %%
 import pandas as pd
 
 def wfa_split(df,n,test_size,anchored = False ):
